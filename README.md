@@ -8,7 +8,7 @@
     <style>
         /* Настройки фона всего сайта */
         body {
-            background-image: url('https://i.pinimg.com/736x/d7/c2/24/d7c2243681f29c5efddd126b95224790.jpg');
+            background-image: url('https://i.pinimg.com/webp70/1200x/cd/3d/2d/cd3d2d8be8ebfd8b46e7a3357f21d0ed.webp');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
