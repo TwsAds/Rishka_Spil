@@ -8,7 +8,7 @@
     <style>
         /* Настройки фона всего сайта */
         body {
-            background-image: url('https://images.unsplash.com/photo-1526047932273-341f2a7631f9?q=80&w=1480');
+            background-image: url('https://i.pinimg.com/736x/d7/c2/24/d7c2243681f29c5efddd126b95224790.jpg');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
@@ -72,15 +72,14 @@
     <div class="content-wrapper">
         <h2>Наши услуги</h2>
         <ul>
-            <li>✨ Классический маникюр — 000 руб.</li>
-            <li>✨ Аппаратный маникюр — 000 руб.</li>
-            <li>✨ Покрытие гель-лаком — 000 руб.</li>
-            <li>✨ Укрепление и дизайн — от 000 руб.</li>
+            <li>✨ Классический маникюр — 300 грн.</li>
+            <li>✨ Аппаратный маникюр — 380 грн.</li>
+            <li>✨ Покрытие гель-лаком — 300 грн.</li>
+            <li>✨ Укрепление и дизайн — от 400 грн.</li>
         </ul>
 
         <div class="messenger-links">
             <h3>Записаться или спросить:</h3>
-            <a href="#">WhatsApp</a>
             <a href="#">Telegram</a>
             <a href="#">Viber</a>
             <a href="#">Instagram</a>
