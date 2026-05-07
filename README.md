@@ -1,6 +1,6 @@
 # Rishka_Spil
 маникюрный салон
-<!DOCTYPE html>
+background-image: url('file:///D:/Telegram%20Desktop/photo_2026-05-08_01-10-40.jpg');
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
